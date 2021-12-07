@@ -1,6 +1,3 @@
-
-// Menu Mobile
-
 document.getElementById("hamburguer-icon").onclick = function () {
   document.getElementById("sliding-header-menu-outer").style.right = "0";
 };
@@ -8,9 +5,6 @@ document.getElementById("hamburguer-icon").onclick = function () {
 document.getElementById("sliding-header-menu-close-button").onclick = function () {
   document.getElementById("sliding-header-menu-outer").style.right = "-320px";
 }
-
-
-// About us Tab
 
 var aboutUs = {
   "Missão": "Fazer com que cada cliente seja reconhecido como autoridade em seu segmento de atuação. Agregar valor ao negócio, potencializar o crescimento das operações e promover e estreitar o relacionamento do cliente com o seu público alvo, por meio da geração de conteúdo de relevância.",
@@ -40,12 +34,7 @@ for (var a = 0; a < about_tags.length; a++) {
 
   };
 
-  
 }
-
-
-
-// Slider de serviços
 
 var our_services = [
   {
@@ -64,11 +53,6 @@ var our_services = [
   }
   
 ];
-
-// service-previous
-// service-next
-// service-title
-// service-text
 
 var servico_atual = 0;
 
@@ -100,12 +84,7 @@ document.getElementById("service-next").onclick = function () {
 
 }
 
-// Data Footer
-
-
-
-  
-   
-
-
+var ano_atual = new Date();
+ano_atual = ano_atual.getFullYear();
+document.getElementById("current_year").innerHTML = ano_atual;
    
