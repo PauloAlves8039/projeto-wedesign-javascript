@@ -1,15 +1,15 @@
 <h1 align="center">WeDesign</h1>
-Repositório de um projeto web para simular a divulgação de uma empresa fictícia, código fonte do projeto foi baseado no curso
+Repositório de um projeto web para simular a divulgação de uma empresa fictícia, código fonte foi baseado no curso
 
 [Aprenda Javascript, jQuery, Ajax e Json do Zero na Prática](https://www.udemy.com/course/aprenda-javascript-com-facilidade-do-zero/).
 
 
 ## :wrench: Recursos Utilizados
 
-- [Visual Studio Code v1.62.3](https://code.visualstudio.com/).
-- [HTML5](https://www.w3schools.com/html/).
-- [CSS3](https://www.w3schools.com/css/).
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript).
+- [Visual Studio Code v1.62.3](https://code.visualstudio.com/)
+- [HTML5](https://www.w3schools.com/html/)
+- [CSS3](https://www.w3schools.com/css/)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## :floppy_disk: Clonar Repositório
 
